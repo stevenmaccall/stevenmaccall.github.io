@@ -9,12 +9,12 @@ owner:
   name: Steven L. MacCall, PhD
   avatar: bio-photo.jpg
   bio: "A brief description of yourself."
-  email: #emailaddress
+  email: smaccall@slis.ua.edu
   # Do not include the @ symbol in your Twitter username
   twitter: stevenmaccall
   linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  github: stevenmaccall.github.io
+  orcid: 0000-0002-4231-2876
   researchgate: #username
   mendeley: #username
   google:
